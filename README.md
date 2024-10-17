@@ -12,7 +12,7 @@
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **Javascript**, **Postman**, **VS Code**,  **React Native**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about Javascript, React Native
+- 💬 Talk to me about Javascript, React Native, Redux, Flexbox
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
