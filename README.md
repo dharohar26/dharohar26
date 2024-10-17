@@ -10,7 +10,7 @@
 - 🏦 I'm a passionate React Native Developer from India
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+- 💻 I use daily: **Javascript**, **Java**, **ReactNative**,  **HTML/CSS**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
